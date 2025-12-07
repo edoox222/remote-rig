@@ -1,0 +1,9 @@
+# Python virtual environments
+hardware-service/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uvicorn / FastAPI debug artifacts (just in case)
+*.log
